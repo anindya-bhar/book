@@ -101,6 +101,8 @@ a
 .left-div
 {
     flex: 2;
+    display: flex;
+    flex-direction: column-reverse;
 }
 .right-div
 {
